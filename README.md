@@ -1,1 +1,3 @@
-# CV-2.0
+# CV- Updated with CSS
+
+![CV](/images/screenshot.png 'My Site')
